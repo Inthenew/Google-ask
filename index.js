@@ -1,0 +1,1 @@
+   window.open(`https://www.google.com/search?q=${prompt('ask a question!')}&rlz=1C5CHFA_enUS880US881&oq=cock&aqs=chrome..69i57j0i433l2j46i433l2j69i60l3.704j0j4&sourceid=chrome&ie=UTF-8`, 'Google', 'width=400,height=400,scrollbars=yes');  
